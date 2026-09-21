@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net">
+  <diagram id="codmas-coding" name="CODMAS coding example">
+    <mxGraphModel page="1" pageWidth="760" pageHeight="870">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="Worked coding example: CODMAS" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=24;fontColor=#1F2937;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="12" width="720" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="study" value="" style="rounded=1;arcSize=8;html=0;fillColor=#EAF0FA;strokeColor=#4472C4;" vertex="1" parent="1">
+          <mxGeometry x="20" y="54" width="720" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="study-title" value="Source: structured RTL optimization" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=20;fontColor=#1F2937;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="36" y="68" width="680" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="study-info" value="Conference paper (2026)&#10;Coding based on reported full-text descriptions" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=18;fontColor=#1F2937;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="36" y="100" width="680" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rq1" value="" style="rounded=1;arcSize=8;html=0;fillColor=#FFFFFF;strokeColor=#4472C4;" vertex="1" parent="1">
+          <mxGeometry x="20" y="178" width="720" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="rq1-title" value="RQ1 · Reported characteristics (10/10)" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=20;fontColor=#1F2937;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="36" y="192" width="680" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-box-0" value="" style="rounded=1;arcSize=8;html=0;fillColor=#E7F4EF;strokeColor=#009E73;" vertex="1" parent="1">
+          <mxGeometry x="36" y="231" width="336" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-0" value="Perception &amp; context acquisition" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=17;fontColor=#1F2937;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="44" y="236" width="322" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-box-1" value="" style="rounded=1;arcSize=8;html=0;fillColor=#E7F4EF;strokeColor=#009E73;" vertex="1" parent="1">
+          <mxGeometry x="388" y="231" width="336" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-1" value="Reasoning &amp; planning" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=17;fontColor=#1F2937;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="396" y="236" width="322" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-box-2" value="" style="rounded=1;arcSize=8;html=0;fillColor=#E7F4EF;strokeColor=#009E73;" vertex="1" parent="1">
+          <mxGeometry x="36" y="267" width="336" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-2" value="Action execution" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=17;fontColor=#1F2937;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="44" y="272" width="322" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-box-3" value="" style="rounded=1;arcSize=8;html=0;fillColor=#E7F4EF;strokeColor=#009E73;" vertex="1" parent="1">
+          <mxGeometry x="388" y="267" width="336" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-3" value="Tool &amp; capability use" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=17;fontColor=#1F2937;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="396" y="272" width="322" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-box-4" value="" style="rounded=1;arcSize=8;html=0;fillColor=#E7F4EF;strokeColor=#009E73;" vertex="1" parent="1">
+          <mxGeometry x="36" y="303" width="336" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-4" value="Memory &amp; state management" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=17;fontColor=#1F2937;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="44" y="308" width="322" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-box-5" value="" style="rounded=1;arcSize=8;html=0;fillColor=#E7F4EF;strokeColor=#009E73;" vertex="1" parent="1">
+          <mxGeometry x="388" y="303" width="336" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-5" value="Environment interaction" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=17;fontColor=#1F2937;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="396" y="308" width="322" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-box-6" value="" style="rounded=1;arcSize=8;html=0;fillColor=#E7F4EF;strokeColor=#009E73;" vertex="1" parent="1">
+          <mxGeometry x="36" y="339" width="336" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-6" value="Feedback &amp; reflection" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=17;fontColor=#1F2937;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="44" y="344" width="322" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-box-7" value="" style="rounded=1;arcSize=8;html=0;fillColor=#E7F4EF;strokeColor=#009E73;" vertex="1" parent="1">
+          <mxGeometry x="388" y="339" width="336" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-7" value="Human-in-the-loop collaboration" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=17;fontColor=#1F2937;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="396" y="344" width="322" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-box-8" value="" style="rounded=1;arcSize=8;html=0;fillColor=#E7F4EF;strokeColor=#009E73;" vertex="1" parent="1">
+          <mxGeometry x="36" y="375" width="336" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-8" value="Role &amp; multi-agent coordination" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=17;fontColor=#1F2937;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="44" y="380" width="322" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-box-9" value="" style="rounded=1;arcSize=8;html=0;fillColor=#E7F4EF;strokeColor=#009E73;" vertex="1" parent="1">
+          <mxGeometry x="388" y="375" width="336" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="feature-9" value="Governance &amp; traceability" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=17;fontColor=#1F2937;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="396" y="380" width="322" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="rq1-note" value="All ten characteristics are reported in the source study." style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=18;fontColor=#1F2937;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="36" y="425" width="690" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rq2" value="" style="rounded=1;arcSize=8;html=0;fillColor=#F8FAFC;strokeColor=#4472C4;" vertex="1" parent="1">
+          <mxGeometry x="20" y="468" width="350" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rq3" value="" style="rounded=1;arcSize=8;html=0;fillColor=#F8FAFC;strokeColor=#4472C4;" vertex="1" parent="1">
+          <mxGeometry x="390" y="468" width="350" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rq2-title" value="RQ2 · System form" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=20;fontColor=#1F2937;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="36" y="484" width="318" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="rq2-body" value="Primary:&#10;Multi-Agent Collaboration&#10;Secondary:&#10;Domain-Tool-Augmented" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=18;fontColor=#1F2937;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="36" y="521" width="318" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rq3-title" value="RQ3 · Application domain" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=20;fontColor=#1F2937;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="406" y="484" width="318" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="rq3-body" value="Domain: Software Engineering&#10;Task: RTL optimization" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=18;fontColor=#1F2937;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="406" y="529" width="318" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rq4" value="" style="rounded=1;arcSize=8;html=0;fillColor=#FFF8E6;strokeColor=#E69F00;" vertex="1" parent="1">
+          <mxGeometry x="20" y="650" width="350" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="rq5" value="" style="rounded=1;arcSize=8;html=0;fillColor=#F8FAFC;strokeColor=#4472C4;" vertex="1" parent="1">
+          <mxGeometry x="390" y="650" width="350" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="rq4-title" value="RQ4 · Evaluation practices" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=20;fontColor=#1F2937;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="36" y="667" width="318" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="rq4-body" value="Benchmark; case study;&#10;experiment; ablation;&#10;statistical analysis&#10;&#10;Reported artifact availability: No" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=18;fontColor=#1F2937;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="36" y="703" width="318" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="rq5-title" value="RQ5 · Architecture &amp; evolution" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=18;fontColor=#1F2937;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="406" y="667" width="318" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="rq5-body" value="Diagrams: system architecture;&#10;workflow/flowchart&#10;&#10;System evolution discussed: Yes" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=top;spacing=0;fontFamily=DejaVu Sans;fontSize=18;fontColor=#1F2937;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="406" y="710" width="318" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
